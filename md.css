@@ -1,0 +1,19 @@
+@media (max-width: 900px) {
+.cryptodiv{
+    width: 100%;
+    border-radius: 0px;
+}
+}
+
+@media (max-width: 700px) {
+.cryptos{
+    width: 100%;
+    margin: 20px;
+    transition-duration:1s !important;
+}
+.cryptodiv{
+    width: 100%;
+    height: auto;
+    margin: 10px 0 0 0;
+}
+    }
