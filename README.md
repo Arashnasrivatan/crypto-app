@@ -21,7 +21,7 @@ This project is a simple website that shows cryptocurrency prices in Iranian Tom
 
 ## demo
 
-![demo]("https://github.com/arashnasrivatan/crypto-app/preview/index.png")
+![[demo]("https://raw.githubusercontent.com/Arashnasrivatan/crypto-app/main/preview/index.png")](https://raw.githubusercontent.com/Arashnasrivatan/crypto-app/main/preview/index.png)
 
 ## Developed by 👨‍💻
 
